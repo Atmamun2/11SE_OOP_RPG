@@ -17,6 +17,10 @@ DARK_SORCERER_NAME = "Dark Sorcerer"
 DARK_SORCERER_HEALTH = 60
 DARK_SORCERER_DAMAGE = 9
 
+DRAGON_LORD_NAME = "Dragon Lord"
+DRAGON_LORD_HEALTH = 70
+DRAGON_LORD_DAMAGE = 10
+
 # Weapon constants
 WEAPON_ROCK_NAME = "Rock"
 WEAPON_ROCK_DAMAGE = 2
@@ -26,6 +30,12 @@ WEAPON_PAPER_DAMAGE = 3
 
 WEAPON_SCISSORS_NAME = "Scissors"
 WEAPON_SCISSORS_DAMAGE = 4
+
+WEAPON_LIZARD_NAME = "Lizard"
+WEAPON_LIZARD_DAMAGE = 5
+
+WEAPON_SPOCK_NAME = "Spock"
+WEAPON_SPOCK_DAMAGE = 6
 
 # UI constants
 SEPARATOR_LENGTH = 30
@@ -54,6 +64,14 @@ DARK_SORCERER_INTRO = (
     "With the Goblin King fallen, you ascend a spiraling staircase into a chamber pulsing with arcane energy.\n"
     "The Dark Sorcerer, master of forbidden spells and illusions, greets you with a sinister grin.\n"
     "Only true heroes survive his magic. Face your fears, {player_name}, and let your legend grow!"
+)
+
+DRAGON_LORD_INTRO = (
+    "🐉 Level 3: The Dragon Lord's Aerie 🐉\n"
+    "The very air itself seems to tremble as you enter the volcanic lair high in the Obsidian Peaks.\n"
+    "Before you towers the ancient Dragon Lord, his scales glistening like molten gold in the firelight.\n"
+    "His voice rumbles like distant thunder: 'Foolish mortal! None have withstood my flame!\n"
+    "Prove your worth, {player_name}, or be reduced to ashes like all who came before!"
 )
 
 # Combat messages
